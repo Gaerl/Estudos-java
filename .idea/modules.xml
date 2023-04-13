@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/1 Estudos-java.iml" filepath="$PROJECT_DIR$/.idea/1 Estudos-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogCondOpLogico/LogCondOpLogico.iml" filepath="$PROJECT_DIR$/LogCondOpLogico/LogCondOpLogico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogCondOpRelacionais/LogCondOpRelacionais.iml" filepath="$PROJECT_DIR$/LogCondOpRelacionais/LogCondOpRelacionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/executando-pelo-prompt/executando-pelo-prompt.iml" filepath="$PROJECT_DIR$/executando-pelo-prompt/executando-pelo-prompt.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica-condicional/logica-condicional.iml" filepath="$PROJECT_DIR$/logica-condicional/logica-condicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" />
